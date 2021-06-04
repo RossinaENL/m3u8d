@@ -1,5 +1,5 @@
 {
-	"name": "Raydelto",
-	"lastName": "Hernandez"
+	name: "Raydelto",
+	lastName: "Hernandez"
 	
 }
